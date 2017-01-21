@@ -1,0 +1,24 @@
+{
+  "name": "brokenlantern",
+  "version": "0.1.0",
+  "description": "A Kingdom Death: Monster fan site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brokenlantern/brokenlantern.git"
+  },
+  "keywords": [
+    "kdm",
+    "kingdom",
+    "death"
+  ],
+  "author": "Broken Lantern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brokenlantern/brokenlantern/issues"
+  },
+  "homepage": "https://github.com/brokenlantern/brokenlantern#readme"
+}
